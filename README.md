@@ -1,5 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
 <!--
 **SeoMiYoung/SeoMiYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
