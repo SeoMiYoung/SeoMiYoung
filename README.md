@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 ### 🌱 About me...
-##### Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
+#### Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
 <!--
