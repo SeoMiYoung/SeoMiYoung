@@ -1,5 +1,5 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=BCAAA4&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=A1887F&height=100&section=header)
 ### 🌱 About me...
 #### Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
 
