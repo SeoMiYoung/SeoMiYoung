@@ -24,6 +24,11 @@
 <h2>:star2: Github status...</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
+
+<!-- <h2>🤔 Most Used Languages...</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeoMiYoung&show_icons=true&locale=en&layout=compact" alt="SeoMiYoung" /></p> -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **SeoMiYoung/SeoMiYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
