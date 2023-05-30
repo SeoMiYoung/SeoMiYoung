@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 80CBC4 -->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=80CBC4&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FDD835&height=100&section=footer)
