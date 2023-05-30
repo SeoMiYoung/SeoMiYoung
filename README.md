@@ -1,7 +1,17 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header) -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=A1887F&height=100&section=header)
-### 🌱 About me...
+
+<h2>🌱 About me...</h2>
+
 #### Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
+
+<h2>📫 How to reach me...</h2>
+
+#### email: seo20seo00@naver.com
+
+<h2>🔭 Skill...</h2>
+
+<h2>😄 Github status...</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
 <!--
