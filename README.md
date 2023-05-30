@@ -1,5 +1,5 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=EF5350&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=100&section=header)
 
 <h2>🌱 About me...</h2>
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <!-- 80CBC4 -->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=EF5350&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=100&section=footer)
