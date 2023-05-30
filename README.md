@@ -1,5 +1,5 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FDD835&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=header)
 
 <h2>🌱 About me...</h2>
 
