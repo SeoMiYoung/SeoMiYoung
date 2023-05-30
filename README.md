@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
-<h2>😄 Github status...</h2>
+<h2>:star2: Github status...</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
 <!--
