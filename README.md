@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
+<h2>💬 Learning...</h2>
+학습 저장 공간 입니다.<br/>
+https://github.com/SeoMiYoung/Learning/issues?q=is%3Aissue+is%3Aclosed
+
 <h2>:star2: Github status...</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
