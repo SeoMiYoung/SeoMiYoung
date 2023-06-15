@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 <h2>:star2: Github status...</h2>
