@@ -24,6 +24,7 @@
 
 <h2>💬 Learning...</h2>
 학습 저장 공간 입니다.<br/>
+새로 학습한 내용들중에 정리하고 싶은 내용들을 정리하였습니다.<br/>
 https://github.com/SeoMiYoung/Learning/issues?q=is%3Aissue+is%3Aclosed
 
 <h2>:star2: Github status...</h2>
