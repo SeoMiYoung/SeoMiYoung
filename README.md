@@ -9,47 +9,16 @@
 
 #### email: seo20seo00@naver.com
 
-<h2>🔭 Skill...</h2>
-<div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
 
-<h2>💬 Learning...</h2>
-학습 저장 공간 입니다.<br/>
-새로 학습한 내용들중에 정리하고 싶은 내용들을 정리하였습니다.<br/>
-https://github.com/SeoMiYoung/Learning/issues?q=is%3Aissue+is%3Aclosed
+<h2>Project</h2>
 
-<h2>:star2: Github status...</h2>
+[2023.03 - 2023.04] [Karly](https://github.com/LikeLion-FE-React-Project04/project-repo)<br/>
+- 멋쟁이사자처럼 프론트엔드 스쿨 Final Project
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoMiYoung)](https://github.com/SeoMiYoung/github-readme-stats)
+[2023.09.06 - 2023.12.15] [MultiPresso](https://github.com/SeoMiYoung/MultiPresso)<br/>
+- 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
+- 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
 
-<!-- <h2>🤔 Most Used Languages...</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeoMiYoung&show_icons=true&locale=en&layout=compact" alt="SeoMiYoung" /></p> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--
-**SeoMiYoung/SeoMiYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 80CBC4 -->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=100&section=footer)
