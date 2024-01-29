@@ -1,5 +1,5 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=header)
 
 <h2>🌱 About me</h2>
 Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
@@ -19,4 +19,4 @@ email: seo20seo00@naver.com
 - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
