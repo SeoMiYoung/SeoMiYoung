@@ -17,6 +17,7 @@ email: seo20seo00@naver.com
 [2023.09.06 - 2023.12.15] [MultiPresso](https://github.com/SeoMiYoung/MultiPresso)<br/>
 - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
 - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
+- 2023 겨울 IPIC & 캡스톤디자인 결과발표회 장려상 수상
 
 <h2>🤔 Studying...</h2>
 
