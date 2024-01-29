@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=header)
 
 <h2>🌱 About me</h2>
-Hello, I'm Seo Mi-young, a college student who is preparing to become a front-end developer.
+이것저것 공부하고 있는 대학생 서미영입니다~!
 
 <h2>📫 How to reach me</h2>
 email: seo20seo00@naver.com
