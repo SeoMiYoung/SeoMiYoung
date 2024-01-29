@@ -18,5 +18,10 @@ email: seo20seo00@naver.com
 - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
 - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
 
+<h2>🤔 Studying...</h2>
+
+- [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
+- [JavaScript 기초](https://github.com/SeoMiYoung/javascript-basic)
+
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
