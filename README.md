@@ -14,7 +14,7 @@ email: seo20seo00@naver.com
 
 <h2>📂 Project</h2>
 
-[2023.03 - 2023.04] [Karly](https://github.com/LikeLion-FE-React-Project04/project-repo)<br/>
+[2023.03.09 - 2023.04.14] [Karly](https://github.com/LikeLion-FE-React-Project04/project-repo)<br/>
 - 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행<br/>
 - 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고<br/>
 
