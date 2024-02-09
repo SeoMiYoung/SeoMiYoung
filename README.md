@@ -26,7 +26,7 @@ email: seo20seo00@naver.com
 <h2>🤔 Studying...</h2>
 
 - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
-- [JavaScript 기초](https://github.com/SeoMiYoung/javascript-basic)
+- [JavaScript](https://github.com/SeoMiYoung/javascript-basic)
 - [React](https://github.com/SeoMiYoung/react)
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
