@@ -28,6 +28,7 @@ email: seo20seo00@naver.com
 - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
 - [JavaScript](https://github.com/SeoMiYoung/javascript-basic)
 - [React](https://github.com/SeoMiYoung/react-basic)
+- [Server Development](https://github.com/SeoMiYoung/study-server-development)
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
