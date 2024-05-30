@@ -14,10 +14,10 @@ email: seo20seo00@naver.com
 - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
 - 동국대학교 SW교육원이 주최하는 「2023년도 겨울 ICIP&캡스톤디자인 결과발표회」에서 장려상 수상
 
-<h2>🤔 Studying...</h2>
+<h2>🤔 레포지토리 정리...</h2>
 
 - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
-- [JavaScript](https://github.com/SeoMiYoung/javascript-basic)
+- [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
 - [React](https://github.com/SeoMiYoung/react-basic)
 - [Server Development](https://github.com/SeoMiYoung/study-server-development)
 
