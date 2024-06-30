@@ -23,7 +23,7 @@ email: seo20seo00@naver.com
 [2024.06.20 - 2024.08.30] [Dongguk Finder](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - 개인프로젝트로 시도하고 있음
 - 대학교 분실물 관련된 사이트 만드는 중
-- Node.js / MongoDB / React 등..
+- Node.js / MongoDB / React / 웹소켓을 이용한 채팅 / 배포 등..
   
 <h2>🔶 공부 카테고리</h2>
 
