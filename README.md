@@ -27,6 +27,8 @@ email: seo20seo00@naver.com
   
 <h2>🔶 공부 카테고리</h2>
 
+- 코딩테스트 준비
+   - [코테 with 파이썬](https://github.com/SeoMiYoung/ready-for-coding-test)
 - JavaScript
   - [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
 - React
