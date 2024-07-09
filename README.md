@@ -20,7 +20,7 @@ email: seo20seo00@naver.com
    - 교과우수상
 - [2024.07.01 - 2024.08.30] 개발 집중 기간 - 밸류업 참여
 
-[2024.06.20 - 2024.08.30] [Dongguk Finder](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
+[2024.06.20 - 2024.09.30] [Dongguk Finder](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - 개인프로젝트로 시도하고 있음
 - 대학교 분실물 관련된 사이트 만드는 중
 - Node.js / MongoDB / React / 웹소켓을 이용한 채팅 / 배포 등..
