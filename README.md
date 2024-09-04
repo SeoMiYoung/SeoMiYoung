@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
 
 <table>
   <tr>
@@ -6,14 +6,14 @@
       <img src="https://github.com/user-attachments/assets/b26683f4-4708-4e75-9376-3cd789777102" width="200px" style="border-radius: 50%;">
     </td>
     <td width="60%">
-      <h3>👋 안녕하세요!</h3>
+      <h3>이왕 시작하면 대충하지 않는 서미영입니다</h3>
       <p>저는  ??...(곧 수정 예정..)</p>
       <h4>🎓 학력</h4>
       <p>동국대학교 AI융합학부 멀티미디어소프트웨어공학과 (2020.03 - 현재)</p>
-      <h4>🌟 관심 분야</h4>
+      <h4>🌟 기술 스택</h4>
       <p>
-        <img alt="AI" src="https://img.shields.io/badge/-AI-blue?style=flat-square&logo=artificial-intelligence&logoColor=white"/>
-        <img alt="웹개발" src="https://img.shields.io/badge/-웹개발-green?style=flat-square&logo=html5&logoColor=white"/>
+        <img alt="어쩌구" src="https://img.shields.io/badge/-어쩌구-blue?style=flat-square&logo=artificial-intelligence&logoColor=white"/>
+        <img alt="저쩌구" src="https://img.shields.io/badge/-저쩌구-green?style=flat-square&logo=html5&logoColor=white"/>
       </p>
     </td>
   </tr>
