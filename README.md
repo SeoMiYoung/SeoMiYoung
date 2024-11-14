@@ -19,6 +19,7 @@ email: seo20seo00@naver.com
    - 교과우수상
 - [2024.07.01 - 2024.08.30] 개발 집중 기간 - 밸류업 대회 참여
    - 59초 영상 공모전 최우수상
+   - 2024년도 LINC 3.0 산학연계 교육과정 영상콘텐츠 공모전 우수상
 
 [2024.??.?? - ] [??](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - 개인프로젝트로 시도하고 있음
@@ -29,7 +30,8 @@ email: seo20seo00@naver.com
 <h2>🔶 공부 카테고리</h2>
 
 - 코딩테스트 준비
-   - [코테 with 파이썬](https://github.com/SeoMiYoung/ready-for-coding-test)
+   - [코테 준비 with 파이썬](https://github.com/algorithm-zone/miyoung-zone)
+   - [추가](https://github.com/SeoMiYoung/ready-for-coding-test)
 - JavaScript
   - [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
 - React
