@@ -22,7 +22,7 @@ email: seo20seo00@naver.com
    - 2024년도 LINC 3.0 산학연계 교육과정 영상콘텐츠 공모전 우수상
 
 [2024.??.?? - ] [??](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
-- 개인프로젝트로 시도하고 있음
+- 개인프로젝트로 시도하고 있음 --> 그치만 못하고 있음 ^^ 언제하지...??
 - 해보고 싶다!
    - Node.js / MongoDB / 웹소켓 / 배포
    - TypeScript / Next.js
