@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
-<h2>🔶 How to reach me</h2>
+<h2>🔶 How To Reach Me</h2>
 
 `email`: seo20seo00@naver.com
 
@@ -22,28 +22,29 @@
    - 59초 영상 공모전 **최우수상🏆**
    - 2024년도 LINC 3.0 산학연계 교육과정 영상콘텐츠 공모전 **우수상🏆**
 
-<h2>🔶 경험</h2>
+<h2>🔶 Education</h2>
+
+| 기간 | 교육 과정 | 비고 |
+|------|------------------------|------|
+| **2020.03 - 2025.08** | 🎓 **동국대학교** - 멀티미디어소프트웨어공학과 | 학부 과정 |
+| **2022.11.28 - 2023.03.29** | 🦁 **멋쟁이사자처럼 프론트엔드 스쿨 4기** | 국비 교육 |
+| **2025.01.10 - 2025.02.21** | 🏦 **IBK 기업은행 청년인턴 32기** - IT금융개발부 | 인턴 |
 
 
-[2024.??.?? - ] [??](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
-- 개인프로젝트로 시도하고 있음 --> 그치만 못하고 있음 ^^ 언제하지...??
-- 해보고 싶다!
-   - Node.js / MongoDB / 웹소켓 / 배포
-   - TypeScript / Next.js
+
+<h2>🔶 My Study</h2>
+
+- 코딩 테스트 준비
+   - [⭐ 취업 코테 준비 with 파이썬 ⭐](https://github.com/algorithm-zone/miyoung-zone)
+   - [이취코](https://github.com/SeoMiYoung/ready-for-coding-test)
+- [개인 프로젝트](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
+   - `시도해보고 싶은 부분`: Node.js / MongoDB / 웹소켓 / 배포 / TypeScript / Next.js
+- [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
+- [React](https://github.com/SeoMiYoung/react-basic)
+- [TypeScript](https://github.com/SeoMiYoung/ts_ca_study)
+- [Node.js & MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
+- [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
   
-<h2>🔶 공부 카테고리</h2>
-
-- 코딩테스트 준비
-   - [코테 준비 with 파이썬](https://github.com/algorithm-zone/miyoung-zone)
-   - [추가](https://github.com/SeoMiYoung/ready-for-coding-test)
-- JavaScript
-  - [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
-- React
-  - [React](https://github.com/SeoMiYoung/react-basic)
-- Node.js & MongoDB
-  - [Node.js & MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
-- 기타
-  - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
