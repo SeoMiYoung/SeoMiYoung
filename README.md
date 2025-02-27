@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
 <h2>🔶 How to reach me</h2>
-email: seo20seo00@naver.com
+
+`email`: seo20seo00@naver.com
 
 <h2>🔶 Project</h2>
 
