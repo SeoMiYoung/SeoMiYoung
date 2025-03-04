@@ -38,7 +38,7 @@
 <h2>🔶 My Study</h2>
 
 - 코딩 테스트 준비
-   - [⭐ 취업 코테 준비 with 파이썬 ⭐](https://github.com/algorithm-zone/miyoung-zone)
+   - [⭐ 취업 코테 준비 with 파이썬 & SQL ⭐](https://github.com/algorithm-zone/miyoung-zone)
    - [이취코](https://github.com/SeoMiYoung/ready-for-coding-test)
 - [개인 프로젝트](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
    - `시도해보고 싶은 부분`: Node.js / MongoDB / 웹소켓 / 배포 / TypeScript / Next.js
