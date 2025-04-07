@@ -43,7 +43,7 @@
 
 <h2>🔶 취업 준비</h2>
 
-- [⭐ 취업 준비 메인 레포지토리 ⭐](https://github.com/algorithm-zone/miyoung-zone)
+- [⭐ 취업 준비 메인 레포지토리 (코테, CS 등..)⭐](https://github.com/algorithm-zone/miyoung-zone)
 - [이취코](https://github.com/SeoMiYoung/ready-for-coding-test)
 
 <h2>🔶 My Study</h2>
