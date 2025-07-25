@@ -2,7 +2,7 @@
 
 <h2>🔶 How To Reach Me</h2>
 <p align="left">
-  <a href="seo20seo00@naver.com">
+  <a href="mailto:your_email@naver.com">
     <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Email Badge"/>
   </a>
   <a href="https://velog.io/@seomiyoung1124/series" target="_blank">
