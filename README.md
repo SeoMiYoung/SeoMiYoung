@@ -1,7 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
-<h2>🔶 How To Reach Me</h2>
 
-`email`: seo20seo00@naver.com
+<h2>🔶 How To Reach Me</h2>
+<p align="left">
+  <a href="seo20seo00@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Email Badge"/>
+  </a>
+  <a href="https://velog.io/@seomiyoung1124/series" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
+  </a>
+  <a href="https://yourusername.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio Badge"/>
+  </a>
+</p>
+
+
 
 <h2>🔶 Project</h2>
 
