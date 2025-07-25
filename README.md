@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
 
+현재 깃허브 리드미 수정중이며, 시간 되는 날 한번에 수정 예정.
+
 
 <h2>Portofolio</h2>
 <a href="https://yourusername.github.io/portfolio" target="_blank">
@@ -15,6 +17,13 @@
   
 <h2>Email</h2>
 seo20seo00@naver.com
+
+<h2>Study</h2>
+
+
+
+
+
 
 <h2>🔶 Project</h2>
 
