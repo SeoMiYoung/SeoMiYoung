@@ -11,7 +11,7 @@
 </p>
 
 <h2>🔶 How To Reach Me</h2>
-`email`: seo20seo00@naver.com
+email: seo20seo00@naver.com
 
 <h2>🔶 Project</h2>
 
