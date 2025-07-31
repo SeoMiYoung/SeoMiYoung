@@ -99,7 +99,7 @@ seo20seo00@naver.com
   </tbody>
 </table>
 
-<h2>Awards</h2>
+<h2>Award</h2>
 
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
