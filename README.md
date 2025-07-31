@@ -99,21 +99,72 @@ seo20seo00@naver.com
   </tbody>
 </table>
 
+<h2>Awards</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>수상 내용</th>
+      <th>수상 일자</th>
+      <th>시상 단체</th>
+      <th>수상 내용 설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>동국인재육성장학<br/>(우수)</strong></td>
+      <td>2021-08-30</td>
+      <td>동국대학교</td>
+      <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
+    </tr>
+    <tr>
+      <td><strong>동국인재육성장학<br/>(우수)</strong></td>
+      <td>2023-09-01</td>
+      <td>동국대학교</td>
+      <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
+    </tr>
+    <tr>
+      <td><strong>장려상</strong></td>
+      <td>2023-12-15</td>
+      <td>동국대학교<br/>SW교육원</td>
+      <td>졸업작품으로 진행한 딥러닝 프로젝트로 2023년 겨울 ICIP&캡스톤디자인 결과발표회에 참여했으며, 열정과 도전정신을 바탕으로 뛰어난 성과를 인정받음.</td>
+    </tr>
+    <tr>
+      <td><strong>교과우수상</strong></td>
+      <td>2024-06-13</td>
+      <td>SK텔레콤<br/>기업문화담당</td>
+      <td>SK텔레콤과 동국대학교가 공동 주관한 기업사회맞춤형 캡스톤디자인 수업에서 우수한 성과와 태도로, 기업 요구사항을 반영한 AI 서비스 기획 및 개발을 진행하여 좋은 평가를 받음.</td>
+    </tr>
+    <tr>
+      <td><strong>동국인재육성장학<br/>(우수)</strong></td>
+      <td>2024-09-02</td>
+      <td>동국대학교</td>
+      <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
+    </tr>
+    <tr>
+      <td><strong>최우수상</strong></td>
+      <td>2024-09-12</td>
+      <td>동국대학교</td>
+      <td>동국대학교에서 주최한 2024 동국 캡스톤디자인 59초 영화제에서 산학 협력 교육과정에서 주어진 다양한 기회에 주도적으로 참여한 경험담을 영상 콘텐츠에 담았고, 적극성을 인정받음.</td>
+    </tr>
+    <tr>
+      <td><strong>우수상</strong></td>
+      <td>2024-11-06</td>
+      <td>한국연구재단</td>
+      <td>2024년 3단계 산학연협력 선도대학 육성사업(LINC 3.0) 산학연계 교육과정 영상콘텐츠 공모전에서 도전적인 정신과 진솔한 체험담으로 노력을 인정받음.</td>
+    </tr>
+  </tbody>
+</table>
 
-<h2>🔶 취업 준비</h2>
+<h2>Study</h2>
 
-- [⭐ 취업 준비 메인 레포지토리 (코테, CS 등..) ⭐](https://github.com/algorithm-zone/miyoung-zone)
-
-<h2>🔶 My Study</h2>
-
-- [개인 프로젝트](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
-   - `시도해보고 싶은 부분`: Node.js / MongoDB / 웹소켓 / 배포 / TypeScript / Next.js
+- [Python 코딩테스트 준비, SQLD 준비](https://github.com/algorithm-zone/miyoung-zone)
+- [Node.js, MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
 - [React](https://github.com/SeoMiYoung/react-basic)
 - [TypeScript](https://github.com/SeoMiYoung/ts_ca_study)
 - [Node.js & MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
-  
+
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
