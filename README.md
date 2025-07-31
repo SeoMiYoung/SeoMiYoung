@@ -1,5 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
 
+<table>
+  <tr>
+    <td width="130">
+      <img src="https://github.com/user-attachments/assets/04025ec6-dd0c-47a7-90b5-1ae8fc01b4ce" width="120" height="120" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h3>Seo Mi Young</h3>
+      <p>
+        개발자 취업 준비중이며,<br/>
+        현재는 알고리즘 및 백엔드 실력을 키우기 위해 SSAFY라는 교육기관에서 열심히 공부중입니다!! 💻✨
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <h2>Blog</h2>
 <a href="https://velog.io/@seomiyoung1124/series" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
@@ -64,7 +80,7 @@ seo20seo00@naver.com
     </tr>
     <tr>
       <td><strong>2025.07.08 - 현재</strong></td>
-      <td>👩‍💻 <strong>SSAFY 14기</strong> - Java Track</td>
+      <td>👩‍💻 <strong>삼성청년SW·AI아카데미(SSAFY) 14기</strong> - Java Track</td>
       <td>교육</td>
     </tr>
   </tbody>
