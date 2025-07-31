@@ -54,7 +54,7 @@ seo20seo00@naver.com
     </tr>
     <tr>
       <td><strong>2022.11.28 - 2023.03.29</strong></td>
-      <td>🦁 <strong>멋쟁이사자처럼 프론트엔드 스쿨 4기</strong></td>
+      <td>🦁 <strong>멋쟁이사자처럼</strong> - 프론트엔드 스쿨 4기</td>
       <td>국비 교육</td>
     </tr>
     <tr>
@@ -63,8 +63,8 @@ seo20seo00@naver.com
       <td>인턴</td>
     </tr>
     <tr>
-      <td><strong>2025.07.08 - 미정</strong></td>
-      <td>👩‍💻 <strong>SSAFY 14기 Java Track</strong></td>
+      <td><strong>2025.07.08 - 현재</strong></td>
+      <td>👩‍💻 <strong>SSAFY 14기</strong> - Java Track</td>
       <td>교육</td>
     </tr>
   </tbody>
