@@ -2,14 +2,16 @@
 
 <table>
   <tr>
-    <td width="130">
-      <img src="https://github.com/user-attachments/assets/04025ec6-dd0c-47a7-90b5-1ae8fc01b4ce" width="120" height="120" style="border-radius: 50%;" />
+    <td width="160">
+      <img src="https://github.com/user-attachments/assets/04025ec6-dd0c-47a7-90b5-1ae8fc01b4ce" width="160" height="160" style="border-radius: 50%;" />
     </td>
     <td>
       <h3>Seo Mi Young</h3>
       <p>
         개발자 취업 준비중이며,<br/>
-        현재는 알고리즘 및 백엔드 실력을 키우기 위해 SSAFY라는 교육기관에서 열심히 공부중입니다!! 💻✨
+        현재는 알고리즘 및 백엔드 실력을 키우기 위해 SSAFY라는 교육기관에서 열심히 공부중입니다!! 💻✨<br/><br/>
+        많은 어려움과 막막함을 느끼더라도 쉽게 포기하지 않고, 꼭 이겨내서 내것으로 만들어야겠다는 마인드를 가지고 있습니다.  <br/> <br/>
+        그렇게 스스로를 조금씩 성장시켜왔고, 앞으로도 그 끈기를 놓지 않겠습니다. 🌱🎉
       </p>
     </td>
   </tr>
