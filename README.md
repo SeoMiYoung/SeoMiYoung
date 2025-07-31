@@ -8,52 +8,96 @@
 <h2>Email</h2>
 seo20seo00@naver.com
 
-<h2>Study</h2>
+<h2>Project</h2>
+<ul>
+  <li>
+    <strong>[2023.03.09 - 2023.04.14] <a href="https://github.com/LikeLion-FE-React-Project04/project-repo" target="_blank">Karly</a></strong><br/>
+    - 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행<br/>
+    - 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고
+  </li>
+  <br/>
+  <li>
+    <strong>[2023.09.06 - 2023.12.15] <a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></strong><br/>
+    - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
+    - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
+    - 「2023년도 겨울 ICIP&amp;캡스톤디자인 결과발표회」 <strong>장려상 🏆</strong> 수상
+  </li>
+  <br/>
+  <li>
+    <strong>[2024.03.07 - 2024.08.30] <a href="https://github.com/Prize-Three" target="_blank">AI와의 음성 기반 역할 놀이 시스템</a></strong><br/>
+    - 자연어처리 및 음성 인식, 변환 기술을 적용하는 프로젝트<br/>
+    - <u>2024.03.07 - 2024.06.13</u>: 기획 집중 기간 (기업사회캡스톤디자인, SK텔레콤 연계 수업 참여) → <strong>교과우수상 🏆</strong><br/>
+    - <u>2024.07.01 - 2024.08.30</u>: 개발 집중 기간 (밸류업 대회 참여)<br/>
+      → <strong>2024.09.12</strong>: 59초 영상 공모전 <strong>최우수상 🏆</strong><br/>
+      → <strong>2024.11.06</strong>: LINC 3.0 영상콘텐츠 공모전 <strong>우수상 🏆</strong><br/>
+    - 특허 출원 시도<br/>
+      → 출원번호 / 출원일자: <code>10-2024-0170282</code> / 2024.11.26<br/>
+      → 명칭: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
+  </li>
+</ul>
 
+<h2>Experience</h2>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>과정</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2020.03 - 2025.08</strong></td>
+      <td>🎓 <strong>동국대학교</strong> - 멀티미디어소프트웨어공학과</td>
+      <td>학부 과정</td>
+    </tr>
+    <tr>
+      <td><strong>2022.11.28 - 2023.03.29</strong></td>
+      <td>🦁 <strong>멋쟁이사자처럼 프론트엔드 스쿨 4기</strong></td>
+      <td>국비 교육</td>
+    </tr>
+    <tr>
+      <td><strong>2025.01.10 - 2025.02.21</strong></td>
+      <td>🏦 <strong>IBK 기업은행 청년인턴 32기</strong> - IT금융개발부</td>
+      <td>인턴</td>
+    </tr>
+    <tr>
+      <td><strong>2025.07.08 - 미정</strong></td>
+      <td>👩‍💻 <strong>SSAFY 14기 Java Track</strong></td>
+      <td>교육</td>
+    </tr>
+  </tbody>
+</table>
 
+<h2>Certificate</h2>
 
-
-
-<h2>🔶 Project</h2>
-
-**[2023.03.09 - 2023.04.14] [Karly](https://github.com/LikeLion-FE-React-Project04/project-repo)<br/>**
-- 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행<br/>
-- 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고<br/>
-
-**[2023.09.06 - 2023.12.15] [MultiPresso](https://github.com/SeoMiYoung/MultiPresso)<br/>**
-- 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
-- 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
-- 동국대학교 SW교육원이 주최하는 「2023년도 겨울 ICIP&캡스톤디자인 결과발표회」에서 **장려상🏆** 수상
-
-**[2024.03.07 - 2024.08.30] [AI와의 음성 기반 역할 놀이 시스템](https://github.com/Prize-Three)<br/>**
-- 자연어처리및 음성 인식, 변환 기술을 적용하는 프로젝트
-- `2024.03.07 - 2024.06.13` 기획 집중 기간 - 기업사회캡스톤디자인(기업 SK텔레콤 연계 수업) 수업 참여 
-   - **교과우수상🏆**
-- `2024.07.01 - 2024.08.30` 개발 집중 기간 - 밸류업 대회 참여
-   - `2024.09.12` 59초 영상 공모전 **최우수상🏆**
-   - `2024.11.06` 2024년도 LINC 3.0 산학연계 교육과정 영상콘텐츠 공모전 **우수상🏆**
-- 특허 출원 시도
-   - 출원번호 / 출원일자: 10-2024-0170282 / 2024.11.26
-   - 특허 출원 명: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
-
-<h2>🔶 Education</h2>
-
-| 기간 | 교육 과정 | 비고 |
-|------|------------------------|------|
-| **2020.03 - 2025.08** | 🎓 **동국대학교** - 멀티미디어소프트웨어공학과 | 학부 과정 |
-| **2022.11.28 - 2023.03.29** | 🦁 **멋쟁이사자처럼 프론트엔드 스쿨 4기** | 국비 교육 |
-| **2025.01.10 - 2025.02.21** | 🏦 **IBK 기업은행 청년인턴 32기** - IT금융개발부 | 인턴 |
-| **2025.07.08 - 미정** | 👩‍💻 **SSAFY 14기 Java Track**  | 교육 |
-
-<h2>🔶 Certificate</h2>
-
-| 취득일자 | 자격증 이름 | 점수 |
-|------|------------------------|------|
-| **2024.09.07** | **OPIc** | **IH** |
-| **2025.04.04** | **SQLD** | **합격** |
-| **2025.06.11** | **정보처리기사(필기)** | **합격(88점)** |
-
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>취득일자</th>
+      <th>자격증 이름</th>
+      <th>점수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2024.09.07</strong></td>
+      <td><strong>OPIc</strong></td>
+      <td><strong>IH</strong></td>
+    </tr>
+    <tr>
+      <td><strong>2025.04.04</strong></td>
+      <td><strong>SQLD</strong></td>
+      <td><strong>합격</strong></td>
+    </tr>
+    <tr>
+      <td><strong>2025.06.11</strong></td>
+      <td><strong>정보처리기사(필기)</strong></td>
+      <td><strong>합격</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h2>🔶 취업 준비</h2>
