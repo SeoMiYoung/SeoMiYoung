@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=160&section=header&text=이왕%20시작하면%20대충하지않는,%20서미영입니다.&fontSize=30&animation=fadeIn&fontAlignY=32&descAlignY=51&descAlign=70&fontColor=ffffff)
 
-현재 깃허브 리드미 수정중이며, 시간 되는 날 한번에 수정 예정.
-
-
-<h2>Portofolio</h2>
-<a href="https://yourusername.github.io/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio Badge"/>
-</a>
-
-포토폴리오를 통해 oo,oo,oo,oo ... 을 확인하실 수 있습니다.
-
 <h2>Blog</h2>
 <a href="https://velog.io/@seomiyoung1124/series" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
