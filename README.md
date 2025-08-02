@@ -185,7 +185,7 @@ seo20seo00@naver.com
 - [TypeScript](https://github.com/SeoMiYoung/ts_ca_study)
 - [Node.js & MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
-
+- [ssafy](https://github.com/SeoMiYoung/ssafy)
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
