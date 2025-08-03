@@ -123,8 +123,8 @@ seo20seo00@naver.com
   <thead>
     <tr>
       <th width="200">수상 내용</th>
-      <th width="120">수상 일자</th>
-      <th width="200">시상 단체</th>
+      <th width="110">수상 일자</th>
+      <th width="130">시상 단체</th>
       <th>수상 내용 설명</th>
     </tr>
   </thead>
@@ -144,13 +144,13 @@ seo20seo00@naver.com
     <tr>
       <td><strong>장려상</strong></td>
       <td>2023-12-15</td>
-      <td>동국대학교 SW교육원</td>
+      <td>동국대학교<br/>SW교육원</td>
       <td>졸업작품으로 진행한 딥러닝 프로젝트로 2023년 겨울 ICIP&캡스톤디자인 결과발표회에 참여했으며, 열정과 도전정신을 바탕으로 뛰어난 성과를 인정받음.</td>
     </tr>
     <tr>
       <td><strong>교과우수상</strong></td>
       <td>2024-06-13</td>
-      <td>SK텔레콤 기업문화담당</td>
+      <td>SK텔레콤<br/>기업문화담당</td>
       <td>SK텔레콤과 동국대학교가 공동 주관한 기업사회맞춤형 캡스톤디자인 수업에서 우수한 성과와 태도로, 기업 요구사항을 반영한 AI 서비스 기획 및 개발을 진행하여 좋은 평가를 받음.</td>
     </tr>
     <tr>
