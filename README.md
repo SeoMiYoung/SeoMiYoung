@@ -78,7 +78,7 @@ seo20seo00@naver.com
     <tr>
       <td><strong>2025.01.10 - 2025.02.21</strong></td>
       <td>🏦 <strong>IBK 기업은행 청년인턴 32기</strong> - IT금융개발부</td>
-      <td>인턴</td>
+      <td>청년인턴(IT)</td>
     </tr>
     <tr>
       <td><strong>2025.07.08 - 현재</strong></td>
