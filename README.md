@@ -189,7 +189,7 @@ seo20seo00@naver.com
 - SSAFY(비공개)
    - [Java]()
    - [Front-end](https://github.com/SeoMiYoung/ssafy_practice_front_end)
-- [Java 코딩테스트 준비(비공개)](https://github.com/SeoMiYoung/java-coding-test)
+- [Java 코딩테스트 준비](https://github.com/SeoMiYoung/java-coding-test)
 - [practice B(비공개)]()
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
