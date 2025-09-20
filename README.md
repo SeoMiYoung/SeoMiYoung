@@ -178,21 +178,27 @@ seo20seo00@naver.com
 
 <h2>GitHub 자료 정리</h2>
 
+> 궁금한 내용 정리
+> - [Learning](https://github.com/SeoMiYoung/Learning)
+
+
 > Coding Apple (온라인 강의)
 > - [Node.js, MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
 > - [JavaScript Basic](https://github.com/SeoMiYoung/javascript-basic)
 > - [React](https://github.com/SeoMiYoung/react-basic)
 > - [TypeScript](https://github.com/SeoMiYoung/ts_ca_study)
 > - [Node.js & MongoDB](https://github.com/SeoMiYoung/CA_nodedotjs_mongodb)
-> - [궁금한 내용 정리](https://github.com/SeoMiYoung/Learning)
+
 
 > Vanilla Project
 > - [멋쟁이사자처럼 프론트엔드 스쿨 4기 Vanilla Project](https://github.com/likelion-lab8-JS/market-karly)
 
+
 > 코딩테스트
-> - [Python 코딩테스트 준비, SQLD 준비](https://github.com/algorithm-zone/miyoung-zone)
+> - [Python 코딩테스트 준비 & SQLD 준비](https://github.com/algorithm-zone/miyoung-zone)
 > - [JAVA 코딩테스트 준비](https://github.com/SeoMiYoung/java-coding-test)
 > - [practice B (비공개)]()
+
 
 > SSAFY (전체 비공개)
 > - [Java]()
