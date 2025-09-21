@@ -17,7 +17,6 @@
   </tr>
 </table>
 
-
 <h2>Blog</h2>
 <a href="https://velog.io/@seomiyoung1124/series" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
@@ -174,6 +173,9 @@ seo20seo00@naver.com
   </tbody>
 </table>
 
+<h2>Most Used Language</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=pie&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>GitHub 자료 정리</h2>
@@ -201,5 +203,5 @@ seo20seo00@naver.com
 > - [Front-end](https://github.com/SeoMiYoung/ssafy_practice_front_end)
 > - [Back-end](https://github.com/SeoMiYoung/ssafy_practice_web_back)
 
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
+
+
