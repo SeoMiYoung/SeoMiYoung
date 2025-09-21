@@ -173,9 +173,11 @@ seo20seo00@naver.com
   </tbody>
 </table>
 
+<!--
 <h2>Most Used</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=pie&langs_count=20&count_private=true&hide=html,css&custom_title=Most%20Used)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h2>GitHub 자료 정리</h2>
 
@@ -203,4 +205,4 @@ seo20seo00@naver.com
 > - [Back-end](https://github.com/SeoMiYoung/ssafy_practice_web_back)
 
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F95700&height=150&section=footer)
