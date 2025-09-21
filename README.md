@@ -192,6 +192,7 @@ seo20seo00@naver.com
 
 > 코딩테스트
 > - [Python 코딩테스트 준비 & SQLD 준비](https://github.com/algorithm-zone/miyoung-zone)
+> - [프로그래머스 SQL 문제 모음](https://velog.io/@seomiyoung1124/series/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 > - [JAVA 코딩테스트 준비](https://github.com/SeoMiYoung/java-coding-test)
 > - [practice B (비공개)]()
 
