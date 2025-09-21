@@ -175,8 +175,7 @@ seo20seo00@naver.com
 
 <h2>Most Used Language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=pie&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoMiYoung&layout=pie&langs_count=20&count_private=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>GitHub 자료 정리</h2>
 
