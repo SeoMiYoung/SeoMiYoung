@@ -199,6 +199,9 @@ seo20seo00@naver.com
 > - [JAVA 코딩테스트 준비](https://github.com/SeoMiYoung/java-coding-test)
 > - [practice B (비공개)]()
 
+> 기타
+> - [SQLD](https://github.com/SeoMiYoung/miyoung-zone/blob/main/SQLD_%EA%B0%9C%EB%85%90.md)
+
 > SSAFY (전체 비공개)
 > - [Java]()
 > - [Front-end](https://github.com/SeoMiYoung/ssafy_practice_front_end)
