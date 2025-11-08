@@ -122,6 +122,11 @@ seo20seo00@naver.com
       <td><strong>정보처리기사(필기)</strong></td>
       <td><strong>합격</strong></td>
     </tr>
+    <tr>
+      <td><strong>2025.11.08 응시</strong></td>
+      <td><strong>정보처리기사(실기)</strong></td>
+      <td><strong>아직 발표 전</strong></td>
+    </tr>
   </tbody>
 </table>
 
