@@ -51,7 +51,16 @@ seo20seo00@naver.com
       → 출원번호 / 출원일자: <code>10-2024-0170282</code> / 2024.11.26<br/>
       → 명칭: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
   </li>
+  <br/>
+  <li>
+    <strong>[2025.10.23 - 2025.10.27] <a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></strong><br/>
+    - '삼성청년SW·AI아카데미(SSAFY) 14기'에서 진행한 대회<br/>
+       - 이미지와 텍스트를 함께 이해하는 멀티모달 인공지능을 직접 개발하고 평가하는 대회<br/>
+    -  참여한 245팀 중에서, 최종 4위 ✨🥳
+  </li>
+  <br/>
 </ul>
+
 
 <h2>Experience</h2>
 
