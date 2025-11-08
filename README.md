@@ -28,41 +28,40 @@ seo20seo00@naver.com
 <h2>Project</h2>
 <ul>
   <li>
-    <strong>[2023.03.09 - 2023.04.14] <a href="https://github.com/LikeLion-FE-React-Project04/project-repo" target="_blank">Karly</a></strong><br/>
+    <strong>[2023.03.09 - 2023.04.14] <a href="https://github.com/LikeLion-FE-React-Project04/project-repo" target="_blank">Karly</a></strong> <code>Front-end</code><br/>
     - 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행<br/>
     - 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고
   </li>
   <br/>
   <li>
-    <strong>[2023.09.06 - 2023.12.15] <a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></strong><br/>
+    <strong>[2023.09.06 - 2023.12.15] <a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></strong> <code>AI(Deep Learning)</code><br/>
     - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
     - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
     - 「2023년도 겨울 ICIP&amp;캡스톤디자인 결과발표회」 <strong>장려상 🏆</strong> 수상
   </li>
   <br/>
   <li>
-    <strong>[2024.03.07 - 2024.08.30] <a href="https://github.com/Prize-Three" target="_blank">AI와의 음성 기반 역할 놀이 시스템</a></strong><br/>
+    <strong>[2024.03.07 - 2024.08.30] <a href="https://github.com/Prize-Three" target="_blank">AI와의 음성 기반 역할 놀이 시스템</a></strong> <code>AI(LLM)</code> <code>Front-end</code><br/>
     - 자연어처리 및 음성 인식, 변환 기술을 적용하는 프로젝트<br/>
     - <u>2024.03.07 - 2024.06.13</u>: 기획 집중 기간 (기업사회캡스톤디자인, SK텔레콤 연계 수업 참여) → <strong>교과우수상 🏆</strong><br/>
     - <u>2024.07.01 - 2024.08.30</u>: 개발 집중 기간 (밸류업 대회 참여)<br/>
       → <strong>2024.09.12</strong>: 59초 영상 공모전 <strong>최우수상 🏆</strong><br/>
       → <strong>2024.11.06</strong>: LINC 3.0 영상콘텐츠 공모전 <strong>우수상 🏆</strong><br/>
     - 특허 출원 시도<br/>
-      → 출원번호 / 출원일자: <code>10-2024-0170282</code> / 2024.11.26<br/>
+      → 출원번호 / 출원일자: 10-2024-0170282 / 2024.11.26<br/>
       → 명칭: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
   </li>
   <br/>
   <li>
-    <strong>[2025.10.23 - 2025.10.27] <a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></strong><br/>
+    <strong>[2025.10.23 - 2025.10.27] <a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></strong> <code>AI</code> <br/>
     - '삼성청년SW·AI아카데미(SSAFY) 14기'에서 진행한 대회<br/>
        - 이미지와 텍스트를 함께 이해하는 멀티모달 인공지능을 직접 개발하고 평가하는 대회<br/>
     -  참여한 245팀 중에서, 최종 4위 ✨🥳
   </li>
   <br/>
   <li>
-    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong><br/>
-    - 진행 예정<br/>
-    - Backend + Frontend + AI 
+    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
+    - 진행 예정
   </li>
   <br/>
 </ul>
