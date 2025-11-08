@@ -60,8 +60,9 @@ seo20seo00@naver.com
   </li>
   <br/>
   <li>
-    <strong>[2025.??.?? - 2025.??.??] SSAFY 14기 1학기 최종 관통 프로젝트 </strong><br/>
-    - 진행 예정
+    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong><br/>
+    - 진행 예정<br/>
+    - Backend + Frontend + AI 
   </li>
   <br/>
 </ul>
