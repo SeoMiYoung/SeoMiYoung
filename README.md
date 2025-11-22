@@ -46,7 +46,7 @@ seo20seo00@naver.com
     - <u>2024.03.07 - 2024.06.13</u>: 기획 집중 기간 (기업사회캡스톤디자인, SK텔레콤 연계 수업 참여) → <strong>교과우수상 🏆</strong><br/>
     - <u>2024.07.01 - 2024.08.30</u>: 개발 집중 기간 (밸류업 대회 참여)<br/>
       → <strong>2024.09.12</strong>: 59초 영상 공모전 <strong>최우수상 🏆</strong><br/>
-      → <strong>2024.11.06</strong>: LINC 3.0 영상콘텐츠 공모전 <strong>우수상 🏆</strong><br/>
+      → <strong>2024.11.06</strong>: [LINC 3.0 영상콘텐츠 공모전 <strong>우수상](https://www.youtube.com/watch?v=xTp713QAnLA) 🏆</strong><br/>
     - 특허 출원 시도<br/>
       → 출원번호 / 출원일자: 10-2024-0170282 / 2024.11.26<br/>
       → 명칭: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
