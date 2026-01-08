@@ -127,11 +127,6 @@ seo20seo00@naver.com
       <td><strong>정보처리기사(필기)</strong></td>
       <td><strong>합격</strong></td>
     </tr>
-    <tr>
-      <td><strong>2025.11.08 응시</strong></td>
-      <td><strong>정보처리기사(실기)</strong></td>
-      <td><strong>아직 발표 전</strong></td>
-    </tr>
   </tbody>
 </table>
 
@@ -188,6 +183,12 @@ seo20seo00@naver.com
       <td>2024-11-06</td>
       <td>한국연구재단</td>
       <td>'2024년 3단계 산학연협력 선도대학 육성사업(LINC 3.0) 산학연계 교육과정 영상콘텐츠 공모전'에서 도전적인 정신과 진솔한 체험담으로 노력을 인정받음.</td>
+    </tr>
+    <tr>
+      <td><strong>최우수상</strong></td>
+      <td>2024-12-26</td>
+      <td>삼성전자주식회사</td>
+      <td>SSAFY 14기 1학기 관통프로젝트 최우수상</td>
     </tr>
   </tbody>
 </table>
