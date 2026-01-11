@@ -61,6 +61,7 @@ seo20seo00@naver.com
   <br/>
   <li>
     <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
+    - 결과물: https://www.youtube.com/watch?v=Sqm74h6lpUE<br/>
     - <strong>최우수상 🏆</strong><br/>
   </li>
   <br/>
