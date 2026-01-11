@@ -62,7 +62,7 @@ seo20seo00@naver.com
   <li>
     <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
     - 결과물: https://www.youtube.com/watch?v=Sqm74h6lpUE<br/>
-    - <strong>최우수상 🏆</strong><br/>
+    - <strong>1학기 관통 프로젝트 서울 12반 1등 (최우수상) 🏆</strong><br/>
   </li>
   <br/>
 </ul>
@@ -187,7 +187,7 @@ seo20seo00@naver.com
     </tr>
     <tr>
       <td><strong>최우수상</strong></td>
-      <td>2024-12-26</td>
+      <td>2025-12-26</td>
       <td>삼성전자주식회사</td>
       <td>SSAFY 14기 1학기 관통프로젝트 최우수상</td>
     </tr>
