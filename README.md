@@ -136,6 +136,7 @@ seo20seo00@naver.com
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
+      <th width="30">번호</th>
       <th width="150">수상 내용</th>
       <th width="120">수상 일자</th>
       <th width="120">시상 단체</th>
@@ -144,54 +145,63 @@ seo20seo00@naver.com
   </thead>
   <tbody>
     <tr>
+      <td>1</td>
       <td><strong>동국인재육성장학 (우수)</strong></td>
       <td>2021-08-30</td>
       <td>동국대학교</td>
       <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
     </tr>
     <tr>
+      <td>2</td>
       <td><strong>동국인재육성장학 (우수)</strong></td>
       <td>2023-09-01</td>
       <td>동국대학교</td>
       <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
     </tr>
     <tr>
+      <td>3</td>
       <td><strong>장려상</strong></td>
       <td>2023-12-15</td>
       <td>동국대학교<br/>SW교육원</td>
       <td>졸업작품으로 진행한 딥러닝 프로젝트로 '2023년 겨울 ICIP&캡스톤디자인 결과발표회'에 참여했으며, 열정과 도전정신을 바탕으로 뛰어난 성과를 인정받음.</td>
     </tr>
     <tr>
+      <td>4</td>
       <td><strong>교과우수상</strong></td>
       <td>2024-06-13</td>
       <td>SK텔레콤<br/>기업문화담당</td>
       <td>SK텔레콤과 동국대학교가 공동 주관한 기업사회맞춤형 캡스톤디자인 수업에서 우수한 성과와 태도로, 기업 요구사항을 반영한 신규 AI 서비스 기획 및 개발을 진행하여 좋은 평가를 받음.</td>
     </tr>
     <tr>
+      <td>5</td>
       <td><strong>동국인재육성장학 (우수)</strong></td>
       <td>2024-09-02</td>
       <td>동국대학교</td>
       <td>우수장학금 수상일자는 수혜받은 학기의 시작 날짜로 설정함.</td>
     </tr>
     <tr>
+      <td>6</td>
       <td><strong>최우수상</strong></td>
       <td>2024-09-12</td>
       <td>동국대학교</td>
       <td>동국대학교에서 주최한 '2024 동국 캡스톤디자인 59초 영화제'에서 산학 협력 교육과정에서 주어진 다양한 기회에 주도적으로 참여한 경험담을 영상 콘텐츠에 담았고, 적극성을 인정받음.</td>
     </tr>
     <tr>
+      <td>7</td>
       <td><strong>우수상</strong></td>
       <td>2024-11-06</td>
       <td>한국연구재단</td>
       <td>'2024년 3단계 산학연협력 선도대학 육성사업(LINC 3.0) 산학연계 교육과정 영상콘텐츠 공모전'에서 도전적인 정신과 진솔한 체험담으로 노력을 인정받음.</td>
     </tr>
     <tr>
+      <td>8</td>
       <td><strong>최우수상</strong></td>
       <td>2025-12-26</td>
       <td>삼성전자주식회사</td>
       <td>SSAFY 14기 1학기 관통프로젝트 최우수상</td>
     </tr>
     <tr>
+      <td>9</td>
       <td><strong>최우수상</strong></td>
       <td>2026-02-19</td>
       <td>삼성전자주식회사</td>
