@@ -56,7 +56,7 @@ seo20seo00@naver.com
     <strong>[2025.10.23 - 2025.10.27] <a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></strong> <code>AI</code> <br/>
     - '삼성청년SW·AI아카데미(SSAFY) 14기'에서 진행한 대회<br/>
        - 이미지와 텍스트를 함께 이해하는 멀티모달 인공지능을 직접 개발하고 평가하는 대회<br/>
-    -  참여한 245팀 중에서, 최종 4위 ✨🥳
+    -  <strong>참여한 245팀 중에서, 최종 4위 ✨🥳</strong>
   </li>
   <br/>
   <li>
