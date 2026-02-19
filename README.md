@@ -60,9 +60,15 @@ seo20seo00@naver.com
   </li>
   <br/>
   <li>
-    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
+    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트 - SSABAP</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
     - 결과물: https://www.youtube.com/watch?v=Sqm74h6lpUE<br/>
     - <strong>1학기 관통 프로젝트 서울 12반 1등 (최우수상) 🏆</strong><br/>
+  </li>
+  <br/>
+   <li>
+    <strong>[2026.??.?? - 2026.??.??] <a href="">SSAFY 14기 2학기 공통 프로젝트 - 힐끔힐끔코딩</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
+    - 결과물: https://www.youtube.com/watch?v=nlCvnyvbsQs<br/>
+    - <strong>2학기 공통 프로젝트 서울 4반 1등 (최우수상) 🏆</strong><br/>
   </li>
   <br/>
 </ul>
