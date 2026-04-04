@@ -208,10 +208,17 @@ seo20seo00@naver.com
     </tr>
     <tr>
       <td>9</td>
-      <td><strong>최우수상</strong></td>
+      <td><strong>우수상</strong></td>
       <td>2026-02-25</td>
       <td>삼성전자주식회사</td>
-      <td>SSAFY 14기 2학기 공통프로젝트 최우수상 (4반 1등)</td>
+      <td>SSAFY 14기 2학기 공통프로젝트 우수상 (4반 1등)</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><strong>우수상</strong></td>
+      <td>2026-03-30</td>
+      <td>삼성전자주식회사</td>
+      <td>SSAFY 14기 2학기 특화프로젝트 우수상 (2반 2등)</td>
     </tr>
   </tbody>
 </table>
