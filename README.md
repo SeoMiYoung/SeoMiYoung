@@ -68,7 +68,12 @@ seo20seo00@naver.com
    <li>
     <strong>[2026.??.?? - 2026.??.??] <a href="">SSAFY 14기 2학기 공통 프로젝트 - 힐끔힐끔코딩</a> </strong> <code>Back-end</code> <code>Front-end</code> <br/>
     - 결과물: https://www.youtube.com/watch?v=nlCvnyvbsQs<br/>
-    - <strong>2학기 공통 프로젝트 서울 4반 1등 (최우수상) 🏆</strong><br/>
+    - <strong>2학기 공통 프로젝트 서울 4반 1등 (우수상) 🏆</strong><br/>
+  </li>
+  <br/>
+  <li>
+    <strong>[2026.??.?? - 2026.??.??] <a href="">SSAFY 14기 2학기 특화 프로젝트 - FinKids</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code> <br/>
+    - <strong>2학기 특화 프로젝트 서울 2반 2등 (우수상) 🏆</strong><br/>
   </li>
   <br/>
 </ul>
