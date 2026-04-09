@@ -87,7 +87,8 @@ seo20seo00@naver.com
   <tbody>
     <tr>
       <td><strong>2020.03 - 2025.08.21</strong></td>
-      <td>🎓 <strong>동국대학교</strong> - 멀티미디어소프트웨어공학과</td>
+      <td>🎓 <strong>동국대학교</strong> - AI융합대학 AI소프트웨어융합학부 멀티미디어소프트웨어공학전공
+</td>
       <td>학부 과정</td>
     </tr>
     <tr>
