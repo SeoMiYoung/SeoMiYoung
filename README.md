@@ -35,7 +35,7 @@ seo20seo00@naver.com
   <br/>
   <li>
     <strong>[2023.09.06 - 2023.12.15] <a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></strong> <code>AI(Deep Learning)</code><br/>
-    - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품<br/>
+    - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품 <strong>(성적: A+)</strong> <br/>
     - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
     - 「2023년도 겨울 ICIP&amp;캡스톤디자인 결과발표회」 <strong>장려상 🏆</strong> 수상
   </li>
