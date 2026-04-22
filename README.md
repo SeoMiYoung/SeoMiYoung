@@ -26,57 +26,128 @@
 seo20seo00@naver.com
 
 <h2>Project</h2>
-<ul>
-  <li>
-    <strong>[2023.03.09 - 2023.04.14] <a href="https://github.com/LikeLion-FE-React-Project04/project-repo" target="_blank">Karly</a></strong> <code>Front-end</code><br/>
-    - 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행<br/>
-    - 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고
-  </li>
-  <br/>
-  <li>
-    <strong>[2023.09.06 - 2023.12.15] <a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></strong> <code>AI(Deep Learning)</code><br/>
-    - 동국대학교 멀티미디어소프트웨어공학과 졸업 작품 <strong>(성적: A+)</strong> <br/>
-    - 딥러닝 모델을 통해 예측한 연령과 감정 기반으로 추천 메뉴를 제공하는 개인 맞춤형 키오스크 시스템 설계<br/>
-    - 「2023년도 겨울 ICIP&amp;캡스톤디자인 결과발표회」 <strong>장려상 🏆</strong> 수상
-  </li>
-  <br/>
-  <li>
-    <strong>[2024.03.07 - 2024.08.30] <a href="https://github.com/Prize-Three" target="_blank">AI와의 음성 기반 역할 놀이 시스템</a></strong> <code>AI(LLM)</code> <code>Front-end</code><br/>
-    - 자연어처리 및 음성 인식, 변환 기술을 적용하는 프로젝트<br/>
-    - <u>2024.03.07 - 2024.06.13</u>: 기획 집중 기간 (기업사회캡스톤디자인, SK텔레콤 연계 수업 참여) → <strong>교과우수상 🏆</strong><br/>
-    - <u>2024.07.01 - 2024.08.30</u>: 개발 집중 기간 (밸류업 대회 참여)<br/>
-      → <strong>2024.09.12</strong>: 59초 영상 공모전 <strong>최우수상 🏆</strong><br/>
-      → <strong>2024.11.06</strong>: [LINC 3.0 영상콘텐츠 공모전 <strong>우수상](https://www.youtube.com/watch?v=xTp713QAnLA) 🏆</strong><br/>
-    - 특허 출원 시도<br/>
-      → 출원번호 / 출원일자: 10-2024-0170282 / 2024.11.26<br/>
-      → 명칭: 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
-  </li>
-  <br/>
-  <li>
-    <strong>[2025.10.23 - 2025.10.27] <a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></strong> <code>AI</code> <br/>
-    - '삼성청년SW·AI아카데미(SSAFY) 14기'에서 진행한 대회<br/>
-       - 이미지와 텍스트를 함께 이해하는 멀티모달 인공지능을 직접 개발하고 평가하는 대회<br/>
-    -  <strong>참여한 245팀 중에서, 최종 4위 ✨🥳</strong>
-  </li>
-  <br/>
-  <li>
-    <strong>[2025.??.?? - 2025.??.??] <a href="">SSAFY 14기 1학기 최종 관통 프로젝트 - SSABAP</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code><br/>
-    - 결과물: https://www.youtube.com/watch?v=Sqm74h6lpUE<br/>
-    - <strong>1학기 관통 프로젝트 서울 12반 1등 (최우수상) 🏆</strong><br/>
-  </li>
-  <br/>
-   <li>
-    <strong>[2026.??.?? - 2026.??.??] <a href="">SSAFY 14기 2학기 공통 프로젝트 - 힐끔힐끔코딩</a> </strong> <code>Back-end</code> <code>Front-end</code> <br/>
-    - 결과물: https://www.youtube.com/watch?v=nlCvnyvbsQs<br/>
-    - <strong>2학기 공통 프로젝트 서울 4반 1등 (우수상) 🏆</strong><br/>
-  </li>
-  <br/>
-  <li>
-    <strong>[2026.??.?? - 2026.??.??] <a href="">SSAFY 14기 2학기 특화 프로젝트 - FinKids</a> </strong> <code>Back-end</code> <code>Front-end</code> <code>AI</code> <br/>
-    - <strong>2학기 특화 프로젝트 서울 2반 2등 (우수상) 🏆</strong><br/>
-  </li>
-  <br/>
-</ul>
+
+<table>
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2023.03<br>— 2023.04</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/LikeLion-FE-React-Project04/project-repo" target="_blank">Karly</a></b>
+      &nbsp;<code>Front-end</code>
+      <br>
+      멋쟁이사자처럼 프론트엔드 스쿨 4기 Final Project. 실제 온라인 쇼핑몰 컬리(Kurly)를 참고하여 클론 구현.
+      <br><br>
+      <b>Stack &nbsp;</b> React<br>
+      <b>Role &nbsp;&nbsp;</b> 프론트엔드 개발
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2023.09<br>— 2023.12</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/SeoMiYoung/MultiPresso" target="_blank">MultiPresso</a></b>
+      &nbsp;<code>AI · Deep Learning</code>
+      <br>
+      동국대학교 졸업 작품 <b>(성적: A+)</b>. 딥러닝으로 연령·감정을 예측해 메뉴를 추천하는 개인 맞춤형 키오스크 시스템.
+      <br><br>
+      <b>Stack &nbsp;</b> Python · PyTorch · OpenCV<br>
+      <b>Role &nbsp;&nbsp;</b> 딥러닝 모델 설계, 추천 시스템 개발, 키오스크 시스템 기획<br>
+      <b>Award </b> 2023 ICIP &amp; 캡스톤디자인 결과발표회 장려상
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2024.03<br>— 2024.08</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Prize-Three" target="_blank">AI 음성 기반 역할 놀이 시스템</a></b>
+      &nbsp;<code>AI · LLM</code>&nbsp;<code>Front-end</code>
+      <br>
+      유아 대상 AI 역할 놀이 서비스. STT/TTS + LLM 기반 음성 인터랙션 시스템.<br>
+      <sub>2024.03 – 06 &nbsp;기획 집중 (기업사회캡스톤디자인, SK텔레콤 연계 수업)</sub><br>
+      <sub>2024.07 – 08 &nbsp;개발 집중 (밸류업 대회 참여)</sub>
+      <br><br>
+      <b>Stack &nbsp;</b> LLM · STT/TTS · NLP · React<br>
+      <b>Role &nbsp;&nbsp;</b> LLM · 음성 기술 통합, 프론트엔드 개발, 특허 출원 진행<br>
+      <b>Award </b> 교과우수상 &nbsp;·&nbsp; 59초 영상 공모전 최우수상 &nbsp;·&nbsp; <a href="https://www.youtube.com/watch?v=xTp713QAnLA">LINC 3.0 영상콘텐츠 공모전 우수상</a><br>
+      <b>Patent</b> 출원번호 10-2024-0170282 (2024.11.26) — 유아를 위한 인공 지능 기반의 역할 놀이를 제공하는 전자 장치, 방법 및 시스템
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2025.10.23<br>— 2025.10.27</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/jjoo-mi-jeong-seok/AI-Challenge" target="_blank">2025 SSAFY 14기 AI 챌린지</a></b>
+      &nbsp;<code>AI</code>
+      <br>
+      이미지·텍스트를 함께 이해하는 멀티모달 AI를 직접 개발하고 평가하는 SSAFY 내부 대회.
+      <br><br>
+      <b>Stack &nbsp;</b> Python · Multimodal AI<br>
+      <b>Role &nbsp;&nbsp;</b> 멀티모달 모델 개발 및 평가<br>
+      <b>Award </b> 참여 245팀 중 최종 4위
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2025</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://www.youtube.com/watch?v=Sqm74h6lpUE" target="_blank">SSABAP</a></b>
+      &nbsp;— SSAFY 14기 1학기 관통 프로젝트&nbsp;<code>Back-end</code>&nbsp;<code>Front-end</code>&nbsp;<code>AI</code>
+      <br>
+      풀스택 + AI 융합 서비스.
+      <br><br>
+      <b>Stack &nbsp;</b> Spring Boot · React · AI<br>
+      <b>Role &nbsp;&nbsp;</b> 백엔드 / 프론트엔드 / AI 전 영역 참여<br>
+      <b>Award </b> 서울 12반 1등 (최우수상)
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2026</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://www.youtube.com/watch?v=nlCvnyvbsQs" target="_blank">힐끔힐끔코딩</a></b>
+      &nbsp;— SSAFY 14기 2학기 공통 프로젝트&nbsp;<code>Back-end</code>&nbsp;<code>Front-end</code>
+      <br>
+      풀스택 웹 서비스.
+      <br><br>
+      <b>Stack &nbsp;</b> Spring Boot · React<br>
+      <b>Role &nbsp;&nbsp;</b> 백엔드 / 프론트엔드 개발 참여<br>
+      <b>Award </b> 서울 4반 1등 (우수상)
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" valign="top" align="center">
+      <sub>2026</sub>
+    </td>
+    <td valign="top">
+      <b>FinKids</b>
+      &nbsp;— SSAFY 14기 2학기 특화 프로젝트&nbsp;<code>Back-end</code>&nbsp;<code>Front-end</code>&nbsp;<code>AI</code>
+      <br>
+      금융 + AI 융합 서비스.
+      <br><br>
+      <b>Stack &nbsp;</b> Spring Boot · React · AI<br>
+      <b>Role &nbsp;&nbsp;</b> 백엔드 / 프론트엔드 / AI 전 영역 참여<br>
+      <b>Award </b> 서울 2반 2등 (우수상)
+    </td>
+  </tr>
+</table>
 
 
 <h2>Experience</h2>
