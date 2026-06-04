@@ -151,8 +151,9 @@ seo20seo00@naver.com
 
 
 <h2>Experience</h2>
+<img width="1920" height="1080" alt="ㅐ바 (1)" src="https://github.com/user-attachments/assets/be10ea29-cf7b-430e-aa36-72fb4fc8a16a" />
 
-<table border="1" cellpadding="6" cellspacing="0">
+<!-- <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
       <th>기간</th>
@@ -183,7 +184,7 @@ seo20seo00@naver.com
       <td>교육</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <h2>Certificate</h2>
 
