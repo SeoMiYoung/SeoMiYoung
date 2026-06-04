@@ -151,7 +151,8 @@ seo20seo00@naver.com
 
 
 <h2>Experience</h2>
-<img width="1920" height="1080" alt="ㅐ바 (1)" src="https://github.com/user-attachments/assets/be10ea29-cf7b-430e-aa36-72fb4fc8a16a" />
+<img width="1920" height="1080" alt="ㅐ바 (2)" src="https://github.com/user-attachments/assets/01ef111c-9f0c-454f-81f5-ec8b0feec719" />
+
 
 <!-- <table border="1" cellpadding="6" cellspacing="0">
   <thead>
