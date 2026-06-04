@@ -299,6 +299,13 @@ seo20seo00@naver.com
       <td>삼성전자주식회사</td>
       <td>SSAFY 14기 2학기 특화프로젝트 우수상 (2반 2등)</td>
     </tr>
+    <tr>
+      <td>10</td>
+      <td><strong>우수상</strong></td>
+      <td>2026-0?-??</td>
+      <td>삼성전자주식회사</td>
+      <td>SSAFY 14기 2학기 자율프로젝트 우수상 (4반 2등)</td>
+    </tr>
   </tbody>
 </table>
 
